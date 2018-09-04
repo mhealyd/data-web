@@ -1,0 +1,16 @@
+---
+title: "Data Hub"
+linkTitle: "Hub"
+description:
+menu: main
+weight: -250
+output: html_document
+---
+
+### Data {.tabset .tabset-fade .tabset-pills}
+
+#### Dashboards
+
+#### Data
+
+Data goes here.

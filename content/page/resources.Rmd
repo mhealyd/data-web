@@ -1,0 +1,186 @@
+---
+title: "Data Repository Index"
+linkTitle: "Index"
+description:
+menu: main
+weight: -230
+output: html_document
+---
+
+[#](###) [A](##A) [B](##B) [C](##C) [D](##D) [E](##E) [F](##F) [G](##G)
+[H](##H) [I](##I) [J](##J) [K](##K) [L](##L) [M](##M) [N](##N) [O](##O)
+[P](##P) [Q](##Q) [R](##R) [S](##S) [T](##T) [U](##U) [V](##V) [W](##W)
+[X](##X) [Y](##Y) [Z](##Z)
+
+## # #
+
+[**500 Cities: Local Data for Better Health**](https://chronicdata.cdc.gov/browse?category=500+Cities)
+
+* **publisher:** CDC and Robert Wood Johnson Foundation
+* **data year:** 2014, 2015
+* **tags:** health behaviors, health indicators, health outcomes, health services
+* **scale:** sub-county
+
+## A
+
+[**American Community Survey**](https://data.census.gov/cedsci/search)
+
+* **publisher:** Census Bureau
+* **data year:** 2016 (1-year estimates); 2012-2016 (5-year estimates)
+* **tags:** economic, housing, social
+* **scale:** sub-county, county, state, national
+* **useR suggestion:** [`tidycensus`](https://cran.r-project.org/web/packages/tidycensus/index.html)
+
+[**Air Quality Data and Tools**](https://www.epa.gov/air-quality-data-and-tools)
+
+* **publisher:** EPA
+* **data year:** variable
+* **tags:** environmental
+* **scale:** county, state, national
+
+
+[**Area Health Resources Files**](https://data.hrsa.gov/data/download)
+
+* **publisher:** HRSA
+* **data year:** variable (2016-2017 release)
+* **tags:** health services
+* **scale:** county
+
+## B
+
+[**BRFSS (CDC)**](https://www.cdc.gov/brfss/smart/Smart_data.htm)
+
+* **publisher:** CDC
+* **data year:** 2016
+* **tags:** health behaviors
+* **scale:** county, state
+
+[**BRFSS (ISDH)**](https://www.in.gov/isdh/reports/brfss/2016/)
+
+* **publisher:** ISDH
+* **data year:** 2016
+* **tags:** health behaviors
+* **scale:** state
+
+## C
+
+[**County Health Rankings**](http://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation)
+
+* **publisher:** University of Washington
+* **data year:** variable (2018 release)
+* **tags:** economic, health behaviors, health indicators, health outcomes, health services, housing, social
+* **scale:** county
+
+## E
+
+[**Environmental Geospatial Data Gateway**](https://datagateway.nrcs.usda.gov/)
+
+* **publisher:** NRCS (USDA) 
+* **data year:** variable
+* **tags:** environmental, gis
+* **scale:** county, state
+
+[**Evansville-Vanderburgh County GIS Open Data**](https://fred.stlouisfed.org/search?st=vanderburgh+county)
+
+* **publisher:** Evanville-Vanderburgh County 
+* **data year:** variable
+* **tags:** economic, environmental, gis, housing, social, transportation
+* **scale:** sub-county, county
+
+## F
+
+[**Food Environment Atlas**](https://www.ers.usda.gov/data-products/food-environment-atlas/go-to-the-atlas/)
+
+* **publisher:** ERS (USDA) 
+* **data year:** variable
+* **tags:** economic, health behaviors, social
+* **scale:** county
+
+[**FRED Economic Data**](https://fred.stlouisfed.org/search?st=vanderburgh+county)
+
+* **publisher:** Federal Reserve Bank of St. Louis 
+* **data year:** variable
+* **tags:** economic, housing, social
+* **scale:** county, state, national
+
+## H
+
+[**Health Professional Shortage Areas**](https://data.hrsa.gov/data/download)
+
+* **publisher:** HRSA
+* **data year:** 2017
+* **tags:** health services
+* **scale:** sub-county, county
+
+[**Hospital Discharge Data Files**](https://www.in.gov/isdh/20624.htm)
+
+* **publisher:** ISDH
+* **data year:** 2017
+* **tags:** health services, health outcomes
+* **scale:** state
+
+## I
+
+[**Indiana Data Hub**](https://hub.mph.in.gov/)
+
+* **publisher:** Indiana 
+* **data year:** variable
+* **tags:** economic, health indicators, health outcomes, health services, social, transportation
+* **scale:** county, state
+
+[**Indiana (Health) Indicators**](http://indianaindicators.org)
+
+* **publisher:** IBRC (IU) 
+* **data year:** variable
+* **tags:** births, deaths, infant deaths
+* **scale:** state, national
+
+[**Indiana (Health) Statistics Explorer**](https://gis.in.gov/apps/isdh/meta/stats_layers.htm)
+
+* **publisher:** ISDH
+* **data year:** variable
+* **tags:** births, deaths, health indicators, health outcomes, health services, infant deaths
+* **scale:** county, state
+
+[**IPUMS: NHGIS**](https://www.nhgis.org/)
+
+* **publisher:** University of Minnesota
+* **data year:** variable
+* **tags:** economic, gis, housing, social
+* **scale:** sub-county, county, state, national
+
+## M
+
+[**Management Performance Hub (Indiana)**](https://www.in.gov/mph/index.htm)
+
+* **publisher:** Indiana 
+* **data year:** variable
+* **tags:** economic, health indicators, social
+* **scale:** county, state
+
+## N
+
+[**National Emissions Inventory**](https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei)
+
+* **publisher:** EPA
+* **data year:** 2017
+* **tags:** environmental
+* **scale:** county, state, national
+
+## T
+
+[**TIGER Products**](https://www.census.gov/geo/maps-data/data/tiger.html)
+
+* **publisher:** Census Bureau
+* **data year:** 2017
+* **tags:** gis
+* **scale:** sub-county, county, state, national
+
+## T
+
+[**WONDER (CDC)**](https://wonder.cdc.gov/)
+
+* **publisher:** CDC
+* **data year:** variable
+* **tags:** births, deaths, infant deaths
+* **scale:** county, state, national
