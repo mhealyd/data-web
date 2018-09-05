@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536113647503.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "108433643",
+    "id" : "8E923FA2",
+    "lastKnownWriteTime" : 1536113938,
+    "last_content_update" : 1536113938205,
+    "path" : "C:/R/projects/data-web/content/page/hub.Rmd",
+    "project_path" : "content/page/hub.Rmd",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

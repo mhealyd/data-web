@@ -92,7 +92,7 @@ Enable/Disable Comments Globally For enabling or disabling comments globally, ch
 enableEmoji = true This will enable Hugo to find Emoji Shorthands in your content files and render them as Unicode Emoji Characters.
 For example:
 :smiley: will become 😃
- No, it&amp;rsquo;ll probably not be that colorful! Unless your device&amp;rsquo;s operating system natively supports colorful emojis, you will see a black &amp;amp; white one instead.</description>
+No, it&amp;rsquo;ll probably not be that colorful! Unless your device&amp;rsquo;s operating system natively supports colorful emojis, you will see a black &amp;amp; white one instead.</description>
     </item>
     
     <item>
@@ -139,7 +139,7 @@ Available Widgets Minimo has the following built-in Widgets:
 Shortcode: center Center align you content.
 center: Parameters  Markdown content between opening and closing tags.  center: Usage Example {{% center %}} _Center Aligned Text_ {{% /center %}} Output
 Center Aligned Text
- Shortcode: convo Renders conversation blocks.
+Shortcode: convo Renders conversation blocks.
 convo: Parameters  sep [String] (optional): seperator between person and text (default: &amp;ldquo;:&amp;rdquo;)  convo: Inner Syntax person :: text You can remove the person part, if you want.</description>
     </item>
     

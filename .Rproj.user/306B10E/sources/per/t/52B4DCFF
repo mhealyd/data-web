@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536111893747.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4169955840",
+    "id" : "52B4DCFF",
+    "lastKnownWriteTime" : 1536121295,
+    "last_content_update" : 1536121295646,
+    "path" : "C:/R/projects/data-web/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "77,17",
+        "scrollLine" : "68"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

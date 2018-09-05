@@ -5,6 +5,7 @@
     <link>/page/</link>
     <description>Recent content in Pages on Data and Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/data-hub/</guid>
-      <description>DataDashboardsDataData goes here.
-</description>
+      <description>DashboardsDataData goes here.
+</description>
     </item>
     
     <item>
@@ -25,10 +26,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/data-repository-index/</guid>
-      <description># A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+      <description>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 #500 Cities: Local Data for Better Health
-publisher: CDC and Robert Wood Johnson Foundationdata year: 2014, 2015tags: health behaviors, health indicators, health outcomes, health servicesscale: sub-countyAAmerican Community Survey
-publisher: Census Bureaudata year: 2016 (1-year estimates); 2012-2016 (5-year estimates)tags: economic, housing, socialscale: sub-county, county, state, nationaluseR suggestion: tidycensusAir Quality Data and Tools</description>
+health behaviors health indicators health outcomes health services
+AAmerican Community Survey
+economic housing social
+Air Quality Data and Tools
+environmental
+Area Health Resources Files
+health services
+BBRFSS (CDC)
+publisher: CDCdata year: 2016tags: health behaviorsscale: county, stateBRFSS (ISDH)</description>
     </item>
     
     <item>
@@ -38,6 +46,50 @@
       
       <guid>/search/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>American Community Survey</title>
+      <link>/acs/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/acs/</guid>
+      <description>American Community Survey
+Economic Housing Social
+ publisher: Census Bureau data year: 2016 (1-year estimates); 2012-2016 (5-year estimates) scale: sub-county, county, state, national useR suggestion: tidycensus  </description>
+    </item>
+    
+    <item>
+      <title>500 Cities</title>
+      <link>/500-cities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/500-cities/</guid>
+      <description>500 Cities: Local Data for Better Health
+Health Behaviors health indicators health outcomes health services
+ publisher: CDC and Robert Wood Johnson Foundation data year: 2014, 2015 scale: sub-county  </description>
+    </item>
+    
+    <item>
+      <title>Air Quality Data and Tools</title>
+      <link>/air-quality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/air-quality/</guid>
+      <description>Air Quality Data and Tools
+Environmental
+ publisher: EPA data year: variable tags: environmental scale: county, state, national  </description>
+    </item>
+    
+    <item>
+      <title>Area Health Resources File</title>
+      <link>/ahrf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ahrf/</guid>
+      <description>Area Health Resources Files
+health services
+ publisher: HRSA data year: variable (2016-2017 release) scale: county  </description>
     </item>
     
   </channel>

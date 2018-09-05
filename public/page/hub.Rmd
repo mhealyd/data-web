@@ -7,8 +7,6 @@ weight: -250
 output: html_document
 ---
 
-### Data {.tabset .tabset-fade .tabset-pills}
-
 #### Dashboards
 
 #### Data

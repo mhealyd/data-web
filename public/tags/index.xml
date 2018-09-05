@@ -47,11 +47,74 @@
     </item>
     
     <item>
+      <title>Economic</title>
+      <link>/tags/economic/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/economic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental</title>
+      <link>/tags/environmental/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/environmental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fuse.js</title>
       <link>/tags/fuse.js/</link>
       <pubDate>Fri, 06 Jul 2018 01:00:00 +0600</pubDate>
       
       <guid>/tags/fuse.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Behaviors</title>
+      <link>/tags/health-behaviors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/health-behaviors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Indicators</title>
+      <link>/tags/health-indicators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/health-indicators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Outcomes</title>
+      <link>/tags/health-outcomes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/health-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Services</title>
+      <link>/tags/health-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/health-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Housing</title>
+      <link>/tags/housing/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/housing/</guid>
       <description></description>
     </item>
     
@@ -142,6 +205,15 @@
       <pubDate>Thu, 05 Oct 2017 20:00:00 +0600</pubDate>
       
       <guid>/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>/tags/social/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social/</guid>
       <description></description>
     </item>
     

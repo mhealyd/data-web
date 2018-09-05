@@ -4,47 +4,27 @@ linkTitle: "Index"
 description:
 menu: main
 weight: -230
-output: html_document
 ---
 
-[#](###) [A](##A) [B](##B) [C](##C) [D](##D) [E](##E) [F](##F) [G](##G)
-[H](##H) [I](##I) [J](##J) [K](##K) [L](##L) [M](##M) [N](##N) [O](##O)
-[P](##P) [Q](##Q) [R](##R) [S](##S) [T](##T) [U](##U) [V](##V) [W](##W)
-[X](##X) [Y](##Y) [Z](##Z)
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) 
+[K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) 
+[U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
-## # #
+### # #
 
-[**500 Cities: Local Data for Better Health**](https://chronicdata.cdc.gov/browse?category=500+Cities)
+[**500 Cities: Local Data for Better Health**](/500-cities)  
+<font size="2">`health behaviors` `health indicators` `health outcomes` `health services`</font> 
 
-* **publisher:** CDC and Robert Wood Johnson Foundation
-* **data year:** 2014, 2015
-* **tags:** health behaviors, health indicators, health outcomes, health services
-* **scale:** sub-county
+### A
 
-## A
+[**American Community Survey**](/acs)  
+<font size="2">`economic` `housing` `social`</font> 
 
-[**American Community Survey**](https://data.census.gov/cedsci/search)
+[**Air Quality Data and Tools**](/air-quality)  
+<font size="2">`environmental`</font> 
 
-* **publisher:** Census Bureau
-* **data year:** 2016 (1-year estimates); 2012-2016 (5-year estimates)
-* **tags:** economic, housing, social
-* **scale:** sub-county, county, state, national
-* **useR suggestion:** [`tidycensus`](https://cran.r-project.org/web/packages/tidycensus/index.html)
-
-[**Air Quality Data and Tools**](https://www.epa.gov/air-quality-data-and-tools)
-
-* **publisher:** EPA
-* **data year:** variable
-* **tags:** environmental
-* **scale:** county, state, national
-
-
-[**Area Health Resources Files**](https://data.hrsa.gov/data/download)
-
-* **publisher:** HRSA
-* **data year:** variable (2016-2017 release)
-* **tags:** health services
-* **scale:** county
+[**Area Health Resources Files**](/ahrf)  
+<font size="2">`health services`</font> 
 
 ## B
 
@@ -176,7 +156,7 @@ output: html_document
 * **tags:** gis
 * **scale:** sub-county, county, state, national
 
-## T
+## W
 
 [**WONDER (CDC)**](https://wonder.cdc.gov/)
 
