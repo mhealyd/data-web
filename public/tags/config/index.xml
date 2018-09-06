@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Configuration on Data and Analytics</title>
+    <title>Configuration on Data, Analytics, and Technology</title>
     <link>/tags/config/</link>
-    <description>Recent content in Configuration on Data and Analytics</description>
+    <description>Recent content in Configuration on Data, Analytics, and Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate>
     
@@ -45,7 +45,7 @@ Enable/Disable Comments Globally For enabling or disabling comments globally, ch
 enableEmoji = true This will enable Hugo to find Emoji Shorthands in your content files and render them as Unicode Emoji Characters.
 For example:
 :smiley: will become 😃
-No, it&amp;rsquo;ll probably not be that colorful! Unless your device&amp;rsquo;s operating system natively supports colorful emojis, you will see a black &amp;amp; white one instead.</description>
+ No, it&amp;rsquo;ll probably not be that colorful! Unless your device&amp;rsquo;s operating system natively supports colorful emojis, you will see a black &amp;amp; white one instead.</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@ Available Widgets Minimo has the following built-in Widgets:
       
       <guid>/docs/config-file/</guid>
       <description>This is the Minimo&amp;rsquo;s configuraion file ( config.toml ) file of this site:
-baseURL = &amp;#34;http://www.example.com&amp;#34; title = &amp;#34;Data and Analytics&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true enableEmoji = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
+baseURL = &amp;#34;http://www.example.com&amp;#34; title = &amp;#34;Data, Analytics, and Technology&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true enableEmoji = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
     </item>
     
   </channel>

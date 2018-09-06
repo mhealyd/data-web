@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "Data and Analytics"
+title = "Data, Analytics, and Technology"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -73,7 +73,7 @@ titleSeparator = "•"
 email = "data@vanderburghcounty.in.gov"
 facebook = "VCHDevv"
 twitter = "VCHDevv"
-github = "VCHDevv"
+github = "VCHD"
 
 [params.comments]
 enable = false

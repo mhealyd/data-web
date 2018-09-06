@@ -13,11 +13,11 @@
   </url>
   
   <url>
-    <loc>/data-hub/</loc>
+    <loc>/hub/</loc>
   </url>
   
   <url>
-    <loc>/data-repository-index/</loc>
+    <loc>/index/</loc>
   </url>
   
   <url>
@@ -158,6 +158,14 @@
   </url>
   
   <url>
+    <loc>/brfss-cdc/</loc>
+  </url>
+  
+  <url>
+    <loc>/brfss-isdh/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -174,13 +182,17 @@
   </url>
   
   <url>
-    <loc>/tags/economic/</loc>
+    <loc>/chr/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/economic/</loc>
     <lastmod>2018-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/environmental/</loc>
+    <loc>/categories/environmental/</loc>
     <priority>0</priority>
   </url>
   
@@ -197,27 +209,27 @@
   </url>
   
   <url>
-    <loc>/tags/health-behaviors/</loc>
+    <loc>/categories/health-behaviors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/health-indicators/</loc>
+    <loc>/categories/health-indicators/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/health-outcomes/</loc>
+    <loc>/categories/health-outcomes/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/health-services/</loc>
+    <loc>/categories/health-services/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/housing/</loc>
+    <loc>/categories/housing/</loc>
     <lastmod>2018-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -300,12 +312,6 @@
   </url>
   
   <url>
-    <loc>/categories/resources/</loc>
-    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/search/</loc>
     <lastmod>2018-07-20T20:00:00+06:00</lastmod>
     <priority>0</priority>
@@ -323,7 +329,7 @@
   </url>
   
   <url>
-    <loc>/tags/social/</loc>
+    <loc>/categories/social/</loc>
     <lastmod>2018-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

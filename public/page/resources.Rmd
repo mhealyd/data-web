@@ -3,19 +3,18 @@ title: "Data Repository Index"
 linkTitle: "Index"
 description:
 menu: main
+slug: "index"
 weight: -230
 ---
 
-[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) 
-[K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) 
-[U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
-### # #
+## # #
 
 [**500 Cities: Local Data for Better Health**](/500-cities)  
 <font size="2">`health behaviors` `health indicators` `health outcomes` `health services`</font> 
 
-### A
+## A
 
 [**American Community Survey**](/acs)  
 <font size="2">`economic` `housing` `social`</font> 
@@ -28,28 +27,16 @@ weight: -230
 
 ## B
 
-[**BRFSS (CDC)**](https://www.cdc.gov/brfss/smart/Smart_data.htm)
+[**BRFSS (CDC)**](/brfss-cdc)  
+<font size="2">`health behaviors`</font> 
 
-* **publisher:** CDC
-* **data year:** 2016
-* **tags:** health behaviors
-* **scale:** county, state
-
-[**BRFSS (ISDH)**](https://www.in.gov/isdh/reports/brfss/2016/)
-
-* **publisher:** ISDH
-* **data year:** 2016
-* **tags:** health behaviors
-* **scale:** state
+[**BRFSS (ISDH)**](/brfss-isdh)  
+<font size="2">`health behaviors`</font>
 
 ## C
 
-[**County Health Rankings**](http://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation)
-
-* **publisher:** University of Washington
-* **data year:** variable (2018 release)
-* **tags:** economic, health behaviors, health indicators, health outcomes, health services, housing, social
-* **scale:** county
+[**County Health Rankings**](http://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation)  
+<font size="2">`economic` `health behaviors` `health indicators` `health outcomes` `health services` `housing` `social`</font> 
 
 ## E
 

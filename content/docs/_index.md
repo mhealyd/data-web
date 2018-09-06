@@ -7,5 +7,5 @@ menu:
   sidebar:
     identifier: docs
 weight: -250
-slug: docs
+slug: briefs
 ---

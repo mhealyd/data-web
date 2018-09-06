@@ -6,7 +6,7 @@ logo = "/images/logo.png"             # default: "/images/logo.png"
 
 # Recent Posts Widget config
 [recent_posts]
-title = ""                            # default: "Recent Posts"
+title = "Recent Briefs"                            # default: "Recent Posts"
 length = 5                            # default: 5
 excludeTypes = ["page"]               # default: ["page"]
 
@@ -27,5 +27,5 @@ platforms = ["email", "facebook", "twitter", "github", "instagram", "codepen", "
 # Taxonomy Cloud Widget config
 [taxonomy_cloud]
 title = ""                            # default: Plural Name for `taxonomyCloud.taxonomy`
-taxonomy = "tags"                     # default: "tags"
+taxonomy = "tags"               # default: "tags"
 shuffle = true                        # default: true

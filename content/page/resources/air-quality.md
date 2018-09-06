@@ -5,14 +5,12 @@ date: []
 slug: air-quality
 type: page
 categories:
-  - Resources
-tags:
-  - Environmental
+  - environmental
 authors: []
 ---
 
 [**Air Quality Data and Tools**](https://www.epa.gov/air-quality-data-and-tools)  
-<font size="2">`Environmental`</font> 
+<font size="2">`environmental`</font> 
 
 * **publisher:** EPA
 * **data year:** variable

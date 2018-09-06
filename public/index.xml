@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Data and Analytics</title>
+    <title>Home on Data, Analytics, and Technology</title>
     <link>/</link>
-    <description>Recent content in Home on Data and Analytics</description>
+    <description>Recent content in Home on Data, Analytics, and Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 04 Sep 2018 00:00:00 +0000</lastBuildDate>
     
@@ -12,20 +12,20 @@
     
     <item>
       <title>Data Hub</title>
-      <link>/data-hub/</link>
+      <link>/hub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/data-hub/</guid>
+      <guid>/hub/</guid>
       <description>DashboardsDataData goes here.
 </description>
     </item>
     
     <item>
       <title>Data Repository Index</title>
-      <link>/data-repository-index/</link>
+      <link>/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/data-repository-index/</guid>
+      <guid>/index/</guid>
       <description>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 #500 Cities: Local Data for Better Health
 health behaviors health indicators health outcomes health services
@@ -36,7 +36,8 @@ environmental
 Area Health Resources Files
 health services
 BBRFSS (CDC)
-publisher: CDCdata year: 2016tags: health behaviorsscale: county, stateBRFSS (ISDH)</description>
+health behaviors
+BRFSS (ISDH)</description>
     </item>
     
     <item>
@@ -55,7 +56,7 @@ health services
       
       <guid>/acs/</guid>
       <description>American Community Survey
-Economic Housing Social
+economic housing social
  publisher: Census Bureau data year: 2016 (1-year estimates); 2012-2016 (5-year estimates) scale: sub-county, county, state, national useR suggestion: tidycensus  </description>
     </item>
     
@@ -141,7 +142,7 @@ Enable/Disable Comments Globally For enabling or disabling comments globally, ch
 enableEmoji = true This will enable Hugo to find Emoji Shorthands in your content files and render them as Unicode Emoji Characters.
 For example:
 :smiley: will become 😃
-No, it&amp;rsquo;ll probably not be that colorful! Unless your device&amp;rsquo;s operating system natively supports colorful emojis, you will see a black &amp;amp; white one instead.</description>
+ No, it&amp;rsquo;ll probably not be that colorful! Unless your device&amp;rsquo;s operating system natively supports colorful emojis, you will see a black &amp;amp; white one instead.</description>
     </item>
     
     <item>
@@ -188,7 +189,7 @@ Available Widgets Minimo has the following built-in Widgets:
 Shortcode: center Center align you content.
 center: Parameters  Markdown content between opening and closing tags.  center: Usage Example {{% center %}} _Center Aligned Text_ {{% /center %}} Output
 Center Aligned Text
-Shortcode: convo Renders conversation blocks.
+ Shortcode: convo Renders conversation blocks.
 convo: Parameters  sep [String] (optional): seperator between person and text (default: &amp;ldquo;:&amp;rdquo;)  convo: Inner Syntax person :: text You can remove the person part, if you want.</description>
     </item>
     
@@ -261,7 +262,7 @@ id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#
       
       <guid>/docs/config-file/</guid>
       <description>This is the Minimo&amp;rsquo;s configuraion file ( config.toml ) file of this site:
-baseURL = &amp;#34;http://www.example.com&amp;#34; title = &amp;#34;Data and Analytics&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true enableEmoji = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
+baseURL = &amp;#34;http://www.example.com&amp;#34; title = &amp;#34;Data, Analytics, and Technology&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true enableEmoji = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
     </item>
     
     <item>
@@ -306,7 +307,7 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>/500-cities/</guid>
       <description>500 Cities: Local Data for Better Health
-Health Behaviors health indicators health outcomes health services
+health behaviors health indicators health outcomes health services
  publisher: CDC and Robert Wood Johnson Foundation data year: 2014, 2015 scale: sub-county  </description>
     </item>
     
@@ -317,7 +318,7 @@ Health Behaviors health indicators health outcomes health services
       
       <guid>/air-quality/</guid>
       <description>Air Quality Data and Tools
-Environmental
+environmental
  publisher: EPA data year: variable tags: environmental scale: county, state, national  </description>
     </item>
     
@@ -330,6 +331,39 @@ Environmental
       <description>Area Health Resources Files
 health services
  publisher: HRSA data year: variable (2016-2017 release) scale: county  </description>
+    </item>
+    
+    <item>
+      <title>BRFSS (CDC)</title>
+      <link>/brfss-cdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/brfss-cdc/</guid>
+      <description>BRFSS (CDC)
+health behaviors
+ publisher: CDC data year: 2016 scale: county, state  </description>
+    </item>
+    
+    <item>
+      <title>BRFSS (ISDH)</title>
+      <link>/brfss-isdh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/brfss-isdh/</guid>
+      <description>BRFSS (ISDH)
+health behaviors
+ publisher: ISDH data year: 2016 scale: state  </description>
+    </item>
+    
+    <item>
+      <title>County Health Rankings</title>
+      <link>/chr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/chr/</guid>
+      <description>County Health Rankings
+economic health behaviors health indicators health outcomes health services housing social
+ publisher: University of Washington data year: variable (2018 release) scale: county  </description>
     </item>
     
   </channel>

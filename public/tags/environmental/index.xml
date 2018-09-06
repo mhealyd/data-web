@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Environmental on Data and Analytics</title>
+    <title>Environmental on Data, Analytics, and Technology</title>
     <link>/tags/environmental/</link>
-    <description>Recent content in Environmental on Data and Analytics</description>
+    <description>Recent content in Environmental on Data, Analytics, and Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="/tags/environmental/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       
       <guid>/air-quality/</guid>
       <description>Air Quality Data and Tools
-Environmental
+environmental
  publisher: EPA data year: variable tags: environmental scale: county, state, national  </description>
     </item>
     

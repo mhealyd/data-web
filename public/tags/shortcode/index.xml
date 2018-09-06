@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shortcode on Data and Analytics</title>
+    <title>Shortcode on Data, Analytics, and Technology</title>
     <link>/tags/shortcode/</link>
-    <description>Recent content in Shortcode on Data and Analytics</description>
+    <description>Recent content in Shortcode on Data, Analytics, and Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 05 Oct 2017 20:00:00 +0600</lastBuildDate>
     
@@ -20,7 +20,7 @@
 Shortcode: center Center align you content.
 center: Parameters  Markdown content between opening and closing tags.  center: Usage Example {{% center %}} _Center Aligned Text_ {{% /center %}} Output
 Center Aligned Text
-Shortcode: convo Renders conversation blocks.
+ Shortcode: convo Renders conversation blocks.
 convo: Parameters  sep [String] (optional): seperator between person and text (default: &amp;ldquo;:&amp;rdquo;)  convo: Inner Syntax person :: text You can remove the person part, if you want.</description>
     </item>
     

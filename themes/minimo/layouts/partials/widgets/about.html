@@ -12,20 +12,6 @@
       </a>
     </div>
     {{ end }}
-    <h2 class='title site-title '>
-    {{ with $config.title }}
-      {{- . -}}
-    {{ else }}
-      {{- .Site.Title -}}
-    {{ end }}
-    </h2>
-    <div class='desc'>
-    {{ with $config.description }}
-      {{- . | markdownify -}}
-    {{ else }}
-      {{- .Site.Params.info.description -}}
-    {{ end }}
-    </div>
   </header>
 
 </section>
