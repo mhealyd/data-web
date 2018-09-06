@@ -3,7 +3,7 @@ title: "Data Repository Index"
 linkTitle: "Index"
 description:
 menu: main
-slug: "index"
+slug: "repository"
 weight: -230
 ---
 
